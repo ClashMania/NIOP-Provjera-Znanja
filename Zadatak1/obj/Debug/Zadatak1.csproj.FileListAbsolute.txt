@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\bin\Debug\Zadatak1.exe.config
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\bin\Debug\Zadatak1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\bin\Debug\Zadatak1.pdb
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\obj\Debug\Zadatak1.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\obj\Debug\Zadatak1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\obj\Debug\Zadatak1.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\obj\Debug\Zadatak1.exe
+C:\Users\ucenik\Documents\GabrielCondricNIOP\NIOPProvijeraZnanja\Zadatak1\obj\Debug\Zadatak1.pdb
